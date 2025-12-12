@@ -1,6 +1,6 @@
 # generateur-de-ha-kus
 
-Ce projet est de créer des haïkus en francais par intelligence générative.
+Ce projet est de créer des haïkus en francais ainsi qu'une illustration accompagnant le haïku par intelligence artificielle générative.
 
 
 Installation pour linux
