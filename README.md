@@ -18,3 +18,13 @@ venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
+
+Pour lancer le back 
+```
+py app.py
+```
+
+Pour lancer le site web
+```
+streamlit run streamlit.py
+```

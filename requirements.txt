@@ -1,0 +1,8 @@
+openai
+streamlit
+python-dotenv
+Pillow
+requests
+mysql-connector-python
+flask
+python-dotenv
