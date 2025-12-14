@@ -2,3 +2,5 @@
 .env
 images/*
 !images/.gitkeep
+.idea/
+__pycache/
