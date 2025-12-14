@@ -12,7 +12,7 @@ def db():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password=os.getenv("PASSWORD_DB"),
+        password=os.getenv("PASSWORD_SQL"),
         database="haiku_db"
     )
 @app.get("/")
